@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="mwo-java2-lab3/src"/>
+	<classpathentry kind="output" path="mwo-java2-lab3/bin"/>
+</classpath>
